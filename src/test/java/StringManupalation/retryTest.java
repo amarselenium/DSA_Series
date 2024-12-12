@@ -5,8 +5,6 @@
  */
 
 package StringManupalation;
-
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

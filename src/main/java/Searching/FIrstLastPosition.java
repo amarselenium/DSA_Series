@@ -5,10 +5,6 @@
  */
 
 package Searching;
-
-import com.sun.org.apache.bcel.internal.generic.ARETURN;
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class FIrstLastPosition {
