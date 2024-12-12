@@ -18,7 +18,7 @@ public class RetryAnalyser implements IRetryAnalyzer {
         while(count>0)
         {
             count--;
-            System.out.println("the test case is failing" + Result.getStatus() + "*****" + Result.getName()+ "***" + count);
+            System.out.println("the test case is failings" + Result.getStatus() + "*****" + Result.getName()+ "***" + count);
         }
 
         return false;
