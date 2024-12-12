@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MySuite" parallel="tests" thread-count="2">
+    <!-- Define the test suite -->
+    <test name="RegressionTests">
+        <!-- Specify the classes to run -->
+        <classes>
+            <class name="StringManupalation.context" />
+            <class name="StringManupalation.retryTest" />
+        </classes>
+    </test>
+</suite>
